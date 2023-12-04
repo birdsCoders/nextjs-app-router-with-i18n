@@ -1,8 +1,7 @@
+const path = require('path');
 const withNextIntl = require('next-intl/plugin')();
 
 /** @type {import('next').NextConfig} */
-
-const path = require('path');
 
 const nextConfig = {
   reactStrictMode: true,
