@@ -1,0 +1,15 @@
+{
+  "TITLE": "Welcome to our site!",
+  "TITLE_ABOUT": "About Us",
+  "NOT_FOUND": "Custom Not Found page",
+
+  "METADATA": {
+    "TITLE": "Next.js App Router i18n localization",
+    "ABOUT_TITLE": "About us"
+  },
+
+  "MENU": {
+    "HOME": "Home",
+    "ABOUT": "About"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "TITLE": "Добро пожаловать!",
+  "TITLE_ABOUT": "О нас",
+  "NOT_FOUND": "Страница не найдена",
+
+  "METADATA": {
+    "TITLE": "Next.js App Router i18n локализация",
+    "ABOUT_TITLE": "О нас"
+  },
+
+  "MENU": {
+    "HOME": "Главная",
+    "ABOUT": "О нас"
+  }
+}
